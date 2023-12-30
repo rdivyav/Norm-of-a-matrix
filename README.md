@@ -1,5 +1,5 @@
 # Norm of a matrix
-## Aim
+## Aim:
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
 1.	Hardware – PCs
