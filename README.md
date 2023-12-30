@@ -77,5 +77,5 @@ print(Norm_of_matrix)
 ![Alt text](3.png)
 
 
-## Result
+## Result:
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
